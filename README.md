@@ -86,7 +86,3 @@ This project aims to predict bone age from X-ray images using a convolutional ne
 The project successfully demonstrates the application of ResNet-50 for predicting bone age from X-ray images. Despite the limited training epochs, the model achieved a competitive MAE, showing promise for medical applications in pediatric healthcare.
 
 --- 
-
-## Contact
-
-For questions or collaborations, feel free to reach out!
